@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cursor-redux-thunk/static/css/main.43386950.chunk.css",
-    "main.js": "/cursor-redux-thunk/static/js/main.cafe48ee.chunk.js",
-    "main.js.map": "/cursor-redux-thunk/static/js/main.cafe48ee.chunk.js.map",
+    "main.js": "/cursor-redux-thunk/static/js/main.d21a72b0.chunk.js",
+    "main.js.map": "/cursor-redux-thunk/static/js/main.d21a72b0.chunk.js.map",
     "runtime-main.js": "/cursor-redux-thunk/static/js/runtime-main.87e621a1.js",
     "runtime-main.js.map": "/cursor-redux-thunk/static/js/runtime-main.87e621a1.js.map",
     "static/js/2.6e6b7ad3.chunk.js": "/cursor-redux-thunk/static/js/2.6e6b7ad3.chunk.js",
     "static/js/2.6e6b7ad3.chunk.js.map": "/cursor-redux-thunk/static/js/2.6e6b7ad3.chunk.js.map",
     "index.html": "/cursor-redux-thunk/index.html",
-    "precache-manifest.72e3206c0e2d4421dce543644a02390d.js": "/cursor-redux-thunk/precache-manifest.72e3206c0e2d4421dce543644a02390d.js",
+    "precache-manifest.8a2b4bb95e223708a537cdde7a6b2672.js": "/cursor-redux-thunk/precache-manifest.8a2b4bb95e223708a537cdde7a6b2672.js",
     "service-worker.js": "/cursor-redux-thunk/service-worker.js",
     "static/css/main.43386950.chunk.css.map": "/cursor-redux-thunk/static/css/main.43386950.chunk.css.map",
     "static/js/2.6e6b7ad3.chunk.js.LICENSE.txt": "/cursor-redux-thunk/static/js/2.6e6b7ad3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.87e621a1.js",
     "static/js/2.6e6b7ad3.chunk.js",
     "static/css/main.43386950.chunk.css",
-    "static/js/main.cafe48ee.chunk.js"
+    "static/js/main.d21a72b0.chunk.js"
   ]
 }
