@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const tweetsAPI = {
   getTweets:  async () => {
-      return  await axios.get('http://77.120.108.119:9999/tweets')
+      return  await axios.get('https://tweets.globalofficiallottery.com/tweets')
       .then((response) => {
         return response
        }, (error) => {
@@ -10,7 +10,7 @@ const tweetsAPI = {
        });
 },
   addTweet: async (data) => {
-   return await axios.post('http://77.120.108.119:9999/tweets', {
+   return await axios.post('https://tweets.globalofficiallottery.com/tweets', {
       userId: data.userId,
       content: data.content,
       image: data.image

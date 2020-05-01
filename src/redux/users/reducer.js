@@ -10,6 +10,7 @@ const initialState = {
 const usersReducer = (state = initialState, action) => {
   switch (action.type) {
     case types.GET_USERS_START:
+      case types.ADD_USER_START:
       return {
         ...state,
         isLoading: true
@@ -26,11 +27,6 @@ const usersReducer = (state = initialState, action) => {
         isLoading: false,
         error: action.payload
       };
-      case types.ADD_USER_START:
-        return {
-          ...state,
-          isLoading: true
-        };
         case types.ADD_USER_SUCCESS:
         return {
           ...state,
