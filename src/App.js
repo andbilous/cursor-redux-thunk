@@ -39,7 +39,7 @@ function App() {
           </ul>
 
       <Switch>
-          <Route path="./users">
+          <Route path="/users">
             <Users />
           </Route>
           <Route path="/addUser">
